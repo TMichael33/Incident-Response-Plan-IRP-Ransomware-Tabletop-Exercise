@@ -1,9 +1,9 @@
 # Project 6: Incident Response Plan (IRP) & Ransomware Tabletop Exercise (TTX)
 
 ## Executive Summary
-When an enterprise is targeted by an advanced cyberattack, technical defenses must be matched by a coordinated operational response. This project features a comprehensive **Incident Response Plan (IRP)** baseline structured around the **NIST SP 800-61 Rev. 2** lifecycle. 
+When an enterprise is targeted by an advanced cyberattack, technical defenses must be matched by a coordinated operational response. This project features a comprehensive **Incident Response Plan ** baseline structured around the **NIST SP 800-61 Rev. 2** lifecycle. 
 
-To validate the viability of the plan, this project documents the execution and key findings of a simulated **Ransomware Tabletop Exercise (TTX)** conducted for a mock defense contractor infrastructure ("Titan Aerospace"). The simulation tested cross-functional coordination, mandatory defense reporting timelines, and technical containment playbooks under stress.
+To validate the viability of the plan, this project documents the execution and key findings of a simulated **Ransomware Tabletop Exercise** conducted for a mock defense contractor infrastructure ("Titan Aerospace"). The simulation tested cross-functional coordination, mandatory defense reporting timelines, and technical containment playbooks under stress.
 
 ---
 
